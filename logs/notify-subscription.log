@@ -1,0 +1,656 @@
+2019-02-18 09:57:29,988 - 正在启动tcp服务器……
+2019-02-18 09:57:30,006 - Using Log4J as the default logging framework
+2019-02-18 09:57:30,017 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 09:57:30,077 - java.nio.Buffer.address: available
+2019-02-18 09:57:30,078 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 09:57:30,080 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 09:57:30,081 - direct buffer constructor: available
+2019-02-18 09:57:30,085 - java.nio.Bits.unaligned: available, true
+2019-02-18 09:57:30,085 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 09:57:30,087 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 09:57:30,089 - Platform: Windows
+2019-02-18 09:57:30,091 - Java version: 8
+2019-02-18 09:57:30,092 - -Dio.netty.noUnsafe: false
+2019-02-18 09:57:30,092 - sun.misc.Unsafe: available
+2019-02-18 09:57:30,093 - -Dio.netty.noJavassist: false
+2019-02-18 09:57:30,094 - Javassist: unavailable
+2019-02-18 09:57:30,094 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 09:57:30,095 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 09:57:30,095 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 09:57:30,096 - -Dio.netty.noPreferDirect: false
+2019-02-18 09:57:30,096 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 09:57:30,117 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 09:57:30,117 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 09:57:30,119 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 09:57:30,426 - -Dio.netty.processId: 14772 (auto-detected)
+2019-02-18 09:57:30,427 - -Djava.net.preferIPv4Stack: false
+2019-02-18 09:57:30,428 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 09:57:30,557 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 09:57:30,558 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 09:57:30,728 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 09:57:30,729 - -Dio.netty.initialSeedUniquifier: 0x58eb98a11d0fc2ec
+2019-02-18 09:57:30,741 - -Dio.netty.leakDetection.level: simple
+2019-02-18 09:57:30,741 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 09:57:30,788 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 09:57:30,789 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 09:57:30,789 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 09:57:30,789 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 09:57:30,789 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 09:57:30,796 - -Dio.netty.allocator.type: pooled
+2019-02-18 09:57:30,796 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 09:57:30,796 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 09:57:30,808 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-02-18 09:59:52,118 - Using Log4J as the default logging framework
+2019-02-18 09:59:52,123 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 09:59:52,150 - java.nio.Buffer.address: available
+2019-02-18 09:59:52,151 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 09:59:52,151 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 09:59:52,152 - direct buffer constructor: available
+2019-02-18 09:59:52,153 - java.nio.Bits.unaligned: available, true
+2019-02-18 09:59:52,153 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 09:59:52,153 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 09:59:52,154 - Platform: Windows
+2019-02-18 09:59:52,154 - Java version: 8
+2019-02-18 09:59:52,154 - -Dio.netty.noUnsafe: false
+2019-02-18 09:59:52,154 - sun.misc.Unsafe: available
+2019-02-18 09:59:52,154 - -Dio.netty.noJavassist: false
+2019-02-18 09:59:52,154 - Javassist: unavailable
+2019-02-18 09:59:52,154 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 09:59:52,155 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 09:59:52,155 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 09:59:52,155 - -Dio.netty.noPreferDirect: false
+2019-02-18 09:59:52,155 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 09:59:52,168 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 09:59:52,169 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 09:59:52,170 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 09:59:52,442 - -Dio.netty.processId: 4492 (auto-detected)
+2019-02-18 09:59:52,443 - -Djava.net.preferIPv4Stack: false
+2019-02-18 09:59:52,443 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 09:59:52,581 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 09:59:52,582 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 09:59:52,740 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 09:59:52,741 - -Dio.netty.initialSeedUniquifier: 0x3289da1f9f9b5c1d
+2019-02-18 09:59:52,751 - -Dio.netty.leakDetection.level: simple
+2019-02-18 09:59:52,751 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 09:59:52,768 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 09:59:52,776 - -Dio.netty.allocator.type: pooled
+2019-02-18 09:59:52,776 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 09:59:52,776 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 09:59:52,807 - [id: 0xf7c38421] REGISTERED
+2019-02-18 09:59:52,808 - [id: 0xf7c38421] CONNECT: /127.0.0.1:8777
+2019-02-18 09:59:52,810 - [id: 0xf7c38421, L:/127.0.0.1:62235 - R:/127.0.0.1:8777] ACTIVE
+2019-02-18 09:59:53,111 - [id: 0x84f3b191, L:/127.0.0.1:8777 - R:/127.0.0.1:62235] REGISTERED
+2019-02-18 09:59:53,111 - [id: 0x84f3b191, L:/127.0.0.1:8777 - R:/127.0.0.1:62235] ACTIVE
+2019-02-18 09:59:53,143 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 09:59:53,144 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 09:59:53,144 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 09:59:53,144 - -Dio.netty.recycler.ratio: 8
+2019-02-18 09:59:53,149 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 09:59:53,150 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@744cc004
+2019-02-18 09:59:53,153 - 不支持的数据协议：class io.netty.buffer.PooledUnsafeDirectByteBuf	期待的数据协议类是：class org.wisdom.protocol.TcpProtocol_3_0
+2019-02-18 09:59:53,156 - [id: 0xf7c38421, L:/127.0.0.1:62235 - R:/127.0.0.1:8777] WRITE: 0B
+2019-02-18 09:59:53,156 - [id: 0xf7c38421, L:/127.0.0.1:62235 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 10:02:34,485 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 10:02:34,485 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 10:02:34,486 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 10:02:34,486 - -Dio.netty.recycler.ratio: 8
+2019-02-18 10:02:34,492 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 10:02:34,493 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5ae0928d
+2019-02-18 10:02:34,496 - [id: 0x84f3b191, L:/127.0.0.1:8777 - R:/127.0.0.1:62235] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 10:02:34,500 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 10:02:34,500 - [id: 0x84f3b191, L:/127.0.0.1:8777 ! R:/127.0.0.1:62235] INACTIVE
+2019-02-18 10:02:34,844 - [id: 0x84f3b191, L:/127.0.0.1:8777 ! R:/127.0.0.1:62235] UNREGISTERED
+2019-02-18 10:08:53,100 - Using Log4J as the default logging framework
+2019-02-18 10:08:53,104 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 10:08:53,124 - java.nio.Buffer.address: available
+2019-02-18 10:08:53,124 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 10:08:53,125 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 10:08:53,125 - direct buffer constructor: available
+2019-02-18 10:08:53,126 - java.nio.Bits.unaligned: available, true
+2019-02-18 10:08:53,126 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 10:08:53,127 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 10:08:53,127 - Platform: Windows
+2019-02-18 10:08:53,127 - Java version: 8
+2019-02-18 10:08:53,127 - -Dio.netty.noUnsafe: false
+2019-02-18 10:08:53,127 - sun.misc.Unsafe: available
+2019-02-18 10:08:53,128 - -Dio.netty.noJavassist: false
+2019-02-18 10:08:53,128 - Javassist: unavailable
+2019-02-18 10:08:53,128 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 10:08:53,129 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 10:08:53,129 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 10:08:53,129 - -Dio.netty.noPreferDirect: false
+2019-02-18 10:08:53,129 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 10:08:53,150 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 10:08:53,150 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 10:08:53,151 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 10:08:53,431 - -Dio.netty.processId: 10560 (auto-detected)
+2019-02-18 10:08:53,432 - -Djava.net.preferIPv4Stack: false
+2019-02-18 10:08:53,432 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 10:08:53,563 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 10:08:53,564 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 10:08:53,743 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 10:08:53,745 - -Dio.netty.initialSeedUniquifier: 0x00436b0d1ac0acc2
+2019-02-18 10:08:53,759 - -Dio.netty.leakDetection.level: simple
+2019-02-18 10:08:53,759 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 10:08:53,774 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 10:08:53,775 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 10:08:53,785 - -Dio.netty.allocator.type: pooled
+2019-02-18 10:08:53,785 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 10:08:53,785 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 10:08:53,825 - [id: 0x6b878b28] REGISTERED
+2019-02-18 10:08:53,825 - [id: 0x6b878b28] CONNECT: /127.0.0.1:8777
+2019-02-18 10:08:53,827 - [id: 0x0ea5085a, L:/127.0.0.1:8777 - R:/127.0.0.1:62405] REGISTERED
+2019-02-18 10:08:53,828 - [id: 0x0ea5085a, L:/127.0.0.1:8777 - R:/127.0.0.1:62405] ACTIVE
+2019-02-18 10:08:53,828 - [id: 0x6b878b28, L:/127.0.0.1:62405 - R:/127.0.0.1:8777] ACTIVE
+2019-02-18 10:08:53,983 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 10:08:53,983 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 10:08:53,984 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 10:08:53,984 - -Dio.netty.recycler.ratio: 8
+2019-02-18 10:08:53,990 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 10:08:53,992 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6521d23
+2019-02-18 10:08:53,995 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 138, cap: 256)
+2019-02-18 10:08:53,995 - [id: 0x6b878b28, L:/127.0.0.1:62405 - R:/127.0.0.1:8777] WRITE: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 30 3a 30 38 3a 31 38 22 2c 22 75 69 64 22 | 10:08:18","uid"|
+|00000060| 3a 22 36 66 61 61 64 62 35 31 2d 65 66 35 65 2d |:"6faadb51-ef5e-|
+|00000070| 34 34 38 65 2d 38 63 36 31 2d 31 34 62 33 62 64 |448e-8c61-14b3bd|
+|00000080| 35 30 39 63 62 64 22 7d 7d 63                   |509cbd"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 10:08:53,995 - [id: 0x6b878b28, L:/127.0.0.1:62405 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 10:08:53,998 - [id: 0x0ea5085a, L:/127.0.0.1:8777 - R:/127.0.0.1:62405] RECEIVED: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 30 3a 30 38 3a 31 38 22 2c 22 75 69 64 22 | 10:08:18","uid"|
+|00000060| 3a 22 36 66 61 61 64 62 35 31 2d 65 66 35 65 2d |:"6faadb51-ef5e-|
+|00000070| 34 34 38 65 2d 38 63 36 31 2d 31 34 62 33 62 64 |448e-8c61-14b3bd|
+|00000080| 35 30 39 63 62 64 22 7d 7d 63                   |509cbd"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 10:08:53,998 - 开始解码数据……
+2019-02-18 10:08:53,998 - 数据开头格式正确
+2019-02-18 10:08:53,998 - 数据长度不够，数据协议len长度为：150994944,数据包实际可读内容为：132正在等待处理拆包……
+2019-02-18 10:13:44,333 - [id: 0x0ea5085a, L:/127.0.0.1:8777 - R:/127.0.0.1:62405] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 10:13:44,333 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 10:13:44,334 - [id: 0x0ea5085a, L:/127.0.0.1:8777 ! R:/127.0.0.1:62405] INACTIVE
+2019-02-18 10:13:44,334 - 开始解码数据……
+2019-02-18 10:13:44,334 - 数据开头格式正确
+2019-02-18 10:13:44,334 - 数据长度不够，数据协议len长度为：150994944,数据包实际可读内容为：132正在等待处理拆包……
+2019-02-18 10:13:44,334 - 开始解码数据……
+2019-02-18 10:13:44,334 - 数据开头格式正确
+2019-02-18 10:13:44,334 - 数据长度不够，数据协议len长度为：150994944,数据包实际可读内容为：132正在等待处理拆包……
+2019-02-18 10:13:44,334 - [id: 0x0ea5085a, L:/127.0.0.1:8777 ! R:/127.0.0.1:62405] UNREGISTERED
+2019-02-18 10:14:12,586 - 正在启动tcp服务器……
+2019-02-18 10:14:12,596 - Using Log4J as the default logging framework
+2019-02-18 10:14:12,600 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 10:14:12,618 - java.nio.Buffer.address: available
+2019-02-18 10:14:12,619 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 10:14:12,619 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 10:14:12,620 - direct buffer constructor: available
+2019-02-18 10:14:12,620 - java.nio.Bits.unaligned: available, true
+2019-02-18 10:14:12,620 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 10:14:12,621 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 10:14:12,621 - Platform: Windows
+2019-02-18 10:14:12,621 - Java version: 8
+2019-02-18 10:14:12,622 - -Dio.netty.noUnsafe: false
+2019-02-18 10:14:12,622 - sun.misc.Unsafe: available
+2019-02-18 10:14:12,622 - -Dio.netty.noJavassist: false
+2019-02-18 10:14:12,622 - Javassist: unavailable
+2019-02-18 10:14:12,623 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 10:14:12,623 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 10:14:12,623 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 10:14:12,623 - -Dio.netty.noPreferDirect: false
+2019-02-18 10:14:12,623 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 10:14:12,644 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 10:14:12,644 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 10:14:12,645 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 10:14:12,920 - -Dio.netty.processId: 22040 (auto-detected)
+2019-02-18 10:14:12,922 - -Djava.net.preferIPv4Stack: false
+2019-02-18 10:14:12,922 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 10:14:13,051 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 10:14:13,051 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 10:14:13,210 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 10:14:13,211 - -Dio.netty.initialSeedUniquifier: 0x74298247e529d8d0
+2019-02-18 10:14:13,220 - -Dio.netty.leakDetection.level: simple
+2019-02-18 10:14:13,220 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 10:14:13,238 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 10:14:13,246 - -Dio.netty.allocator.type: pooled
+2019-02-18 10:14:13,247 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 10:14:13,247 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 10:14:13,261 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-02-18 10:14:16,268 - Using Log4J as the default logging framework
+2019-02-18 10:14:16,272 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 10:14:16,301 - java.nio.Buffer.address: available
+2019-02-18 10:14:16,302 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 10:14:16,302 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 10:14:16,302 - direct buffer constructor: available
+2019-02-18 10:14:16,303 - java.nio.Bits.unaligned: available, true
+2019-02-18 10:14:16,303 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 10:14:16,304 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 10:14:16,304 - Platform: Windows
+2019-02-18 10:14:16,304 - Java version: 8
+2019-02-18 10:14:16,304 - -Dio.netty.noUnsafe: false
+2019-02-18 10:14:16,304 - sun.misc.Unsafe: available
+2019-02-18 10:14:16,304 - -Dio.netty.noJavassist: false
+2019-02-18 10:14:16,305 - Javassist: unavailable
+2019-02-18 10:14:16,305 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 10:14:16,305 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 10:14:16,305 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 10:14:16,305 - -Dio.netty.noPreferDirect: false
+2019-02-18 10:14:16,305 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 10:14:16,318 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 10:14:16,318 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 10:14:16,320 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 10:14:16,584 - -Dio.netty.processId: 21824 (auto-detected)
+2019-02-18 10:14:16,586 - -Djava.net.preferIPv4Stack: false
+2019-02-18 10:14:16,586 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 10:14:16,716 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 10:14:16,717 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 10:14:16,910 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 10:14:16,912 - -Dio.netty.initialSeedUniquifier: 0x0dddf62999c8686f
+2019-02-18 10:14:16,925 - -Dio.netty.leakDetection.level: simple
+2019-02-18 10:14:16,925 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 10:14:16,948 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 10:14:16,948 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 10:14:16,948 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 10:14:16,949 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 10:14:16,958 - -Dio.netty.allocator.type: pooled
+2019-02-18 10:14:16,959 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 10:14:16,959 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 10:14:16,991 - [id: 0x0808efc0] REGISTERED
+2019-02-18 10:14:16,992 - [id: 0x0808efc0] CONNECT: /127.0.0.1:8777
+2019-02-18 10:14:16,996 - [id: 0x0808efc0, L:/127.0.0.1:62579 - R:/127.0.0.1:8777] ACTIVE
+2019-02-18 10:14:17,181 - [id: 0x66bfa10c, L:/127.0.0.1:8777 - R:/127.0.0.1:62579] REGISTERED
+2019-02-18 10:14:17,181 - [id: 0x66bfa10c, L:/127.0.0.1:8777 - R:/127.0.0.1:62579] ACTIVE
+2019-02-18 10:14:17,214 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 10:14:17,214 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 10:14:17,215 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 10:14:17,215 - -Dio.netty.recycler.ratio: 8
+2019-02-18 10:14:17,221 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 10:14:17,222 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6521d23
+2019-02-18 10:14:17,227 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 138, cap: 256)
+2019-02-18 10:14:17,228 - [id: 0x0808efc0, L:/127.0.0.1:62579 - R:/127.0.0.1:8777] WRITE: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 30 3a 31 34 3a 31 38 22 2c 22 75 69 64 22 | 10:14:18","uid"|
+|00000060| 3a 22 62 34 30 35 66 63 63 35 2d 36 61 30 61 2d |:"b405fcc5-6a0a-|
+|00000070| 34 39 65 38 2d 61 33 64 30 2d 30 32 36 32 36 63 |49e8-a3d0-02626c|
+|00000080| 39 62 36 62 37 64 22 7d 7d 63                   |9b6b7d"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 10:14:17,228 - [id: 0x0808efc0, L:/127.0.0.1:62579 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 10:14:17,231 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 10:14:17,231 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 10:14:17,231 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 10:14:17,231 - -Dio.netty.recycler.ratio: 8
+2019-02-18 10:14:17,238 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 10:14:17,239 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d4f2bae
+2019-02-18 10:14:17,243 - [id: 0x66bfa10c, L:/127.0.0.1:8777 - R:/127.0.0.1:62579] RECEIVED: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 30 3a 31 34 3a 31 38 22 2c 22 75 69 64 22 | 10:14:18","uid"|
+|00000060| 3a 22 62 34 30 35 66 63 63 35 2d 36 61 30 61 2d |:"b405fcc5-6a0a-|
+|00000070| 34 39 65 38 2d 61 33 64 30 2d 30 32 36 32 36 63 |49e8-a3d0-02626c|
+|00000080| 39 62 36 62 37 64 22 7d 7d 63                   |9b6b7d"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 10:14:17,244 - 开始解码数据……
+2019-02-18 10:14:17,244 - 数据开头格式正确
+2019-02-18 10:14:17,244 - 数据解码成功
+2019-02-18 10:14:17,245 - 开始封装数据……
+2019-02-18 10:14:17,370 - 这是一个Map:{数据一=User{name='冉鹏峰', age=24, UID='b405fcc5-6a0a-49e8-a3d0-02626c9b6b7d', birthday=Mon Feb 18 10:14:00 CST 2019}}
+2019-02-18 11:25:18,523 - [id: 0x66bfa10c, L:/127.0.0.1:8777 - R:/127.0.0.1:62579] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 11:25:18,528 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 11:25:18,529 - [id: 0x66bfa10c, L:/127.0.0.1:8777 ! R:/127.0.0.1:62579] INACTIVE
+2019-02-18 11:25:18,533 - [id: 0x66bfa10c, L:/127.0.0.1:8777 ! R:/127.0.0.1:62579] UNREGISTERED
+2019-02-18 11:25:21,335 - Using Log4J as the default logging framework
+2019-02-18 11:25:21,341 - -Dio.netty.eventLoopThreads: 24
+2019-02-18 11:25:21,382 - java.nio.Buffer.address: available
+2019-02-18 11:25:21,382 - sun.misc.Unsafe.theUnsafe: available
+2019-02-18 11:25:21,383 - sun.misc.Unsafe.copyMemory: available
+2019-02-18 11:25:21,383 - direct buffer constructor: available
+2019-02-18 11:25:21,384 - java.nio.Bits.unaligned: available, true
+2019-02-18 11:25:21,384 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-02-18 11:25:21,385 - java.nio.ByteBuffer.cleaner(): available
+2019-02-18 11:25:21,386 - Platform: Windows
+2019-02-18 11:25:21,388 - Java version: 8
+2019-02-18 11:25:21,388 - -Dio.netty.noUnsafe: false
+2019-02-18 11:25:21,388 - sun.misc.Unsafe: available
+2019-02-18 11:25:21,388 - -Dio.netty.noJavassist: false
+2019-02-18 11:25:21,389 - Javassist: unavailable
+2019-02-18 11:25:21,389 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-02-18 11:25:21,389 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-02-18 11:25:21,389 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-02-18 11:25:21,390 - -Dio.netty.noPreferDirect: false
+2019-02-18 11:25:21,390 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-02-18 11:25:21,410 - -Dio.netty.noKeySetOptimization: false
+2019-02-18 11:25:21,411 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-02-18 11:25:21,412 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-02-18 11:25:21,704 - -Dio.netty.processId: 20576 (auto-detected)
+2019-02-18 11:25:21,706 - -Djava.net.preferIPv4Stack: false
+2019-02-18 11:25:21,706 - -Djava.net.preferIPv6Addresses: false
+2019-02-18 11:25:21,836 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-02-18 11:25:21,837 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-02-18 11:25:21,999 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-02-18 11:25:22,001 - -Dio.netty.initialSeedUniquifier: 0xf96ce051a6dfd150
+2019-02-18 11:25:22,010 - -Dio.netty.leakDetection.level: simple
+2019-02-18 11:25:22,011 - -Dio.netty.leakDetection.maxRecords: 4
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.numHeapArenas: 18
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.numDirectArenas: 18
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.pageSize: 8192
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.maxOrder: 11
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.chunkSize: 16777216
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.smallCacheSize: 256
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.normalCacheSize: 64
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-02-18 11:25:22,026 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-02-18 11:25:22,034 - -Dio.netty.allocator.type: pooled
+2019-02-18 11:25:22,034 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-02-18 11:25:22,034 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-02-18 11:25:22,064 - [id: 0x5b246c7d] REGISTERED
+2019-02-18 11:25:22,064 - [id: 0x5b246c7d] CONNECT: /127.0.0.1:8777
+2019-02-18 11:25:22,067 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] ACTIVE
+2019-02-18 11:25:22,067 - [id: 0x838f4448, L:/127.0.0.1:8777 - R:/127.0.0.1:63155] REGISTERED
+2019-02-18 11:25:22,068 - [id: 0x838f4448, L:/127.0.0.1:8777 - R:/127.0.0.1:63155] ACTIVE
+2019-02-18 11:25:22,214 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-02-18 11:25:22,214 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-02-18 11:25:22,214 - -Dio.netty.recycler.linkCapacity: 16
+2019-02-18 11:25:22,214 - -Dio.netty.recycler.ratio: 8
+2019-02-18 11:25:22,221 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-02-18 11:25:22,222 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@ab193b6
+2019-02-18 11:25:22,226 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 138, cap: 256)
+2019-02-18 11:25:22,226 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] WRITE: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 31 3a 32 35 3a 31 38 22 2c 22 75 69 64 22 | 11:25:18","uid"|
+|00000060| 3a 22 33 62 62 38 37 62 39 66 2d 61 38 39 63 2d |:"3bb87b9f-a89c-|
+|00000070| 34 39 36 38 2d 62 65 65 63 2d 61 37 62 32 61 33 |4968-beec-a7b2a3|
+|00000080| 62 39 31 32 62 34 22 7d 7d 63                   |b912b4"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 11:25:22,227 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 11:25:22,230 - [id: 0x838f4448, L:/127.0.0.1:8777 - R:/127.0.0.1:63155] RECEIVED: 138B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 09 00 00 00 79 70 6f 6a 6f 2e 55 73 65 72 |XS....ypojo.User|
+|00000010| 7b 22 e6 95 b0 e6 8d ae e4 b8 80 22 3a 7b 22 6e |{".........":{"n|
+|00000020| 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 22 |ame":"........."|
+|00000030| 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 68 |,"age":24,"birth|
+|00000040| 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 38 |day":"2019/02/18|
+|00000050| 20 31 31 3a 32 35 3a 31 38 22 2c 22 75 69 64 22 | 11:25:18","uid"|
+|00000060| 3a 22 33 62 62 38 37 62 39 66 2d 61 38 39 63 2d |:"3bb87b9f-a89c-|
+|00000070| 34 39 36 38 2d 62 65 65 63 2d 61 37 62 32 61 33 |4968-beec-a7b2a3|
+|00000080| 62 39 31 32 62 34 22 7d 7d 63                   |b912b4"}}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 11:25:22,230 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 126, cap: 256)
+2019-02-18 11:25:22,230 - 开始解码数据……
+2019-02-18 11:25:22,230 - 数据开头格式正确
+2019-02-18 11:25:22,230 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] WRITE: 126B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 09 00 00 00 6d 70 6f 6a 6f 2e 55 73 65 72 |XR....mpojo.User|
+|00000010| 5b 7b 22 6e 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f |[{"name":"......|
+|00000020| e5 b3 b0 22 2c 22 61 67 65 22 3a 32 34 2c 22 62 |...","age":24,"b|
+|00000030| 69 72 74 68 64 61 79 22 3a 22 32 30 31 39 2f 30 |irthday":"2019/0|
+|00000040| 32 2f 31 38 20 31 31 3a 32 35 3a 31 38 22 2c 22 |2/18 11:25:18","|
+|00000050| 75 69 64 22 3a 22 33 62 62 38 37 62 39 66 2d 61 |uid":"3bb87b9f-a|
+|00000060| 38 39 63 2d 34 39 36 38 2d 62 65 65 63 2d 61 37 |89c-4968-beec-a7|
+|00000070| 62 32 61 33 62 39 31 32 62 34 22 7d 5d 63       |b2a3b912b4"}]c  |
++--------+-------------------------------------------------+----------------+
+2019-02-18 11:25:22,230 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 11:25:22,230 - 数据解码成功
+2019-02-18 11:25:22,230 - 开始封装数据……
+2019-02-18 11:25:22,231 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 124, cap: 256)
+2019-02-18 11:25:22,231 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] WRITE: 124B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 51 09 00 00 00 6b 70 6f 6a 6f 2e 55 73 65 72 |XQ....kpojo.User|
+|00000010| 7b 22 6e 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 |{"name":".......|
+|00000020| b3 b0 22 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 |..","age":24,"bi|
+|00000030| 72 74 68 64 61 79 22 3a 22 32 30 31 39 2f 30 32 |rthday":"2019/02|
+|00000040| 2f 31 38 20 31 31 3a 32 35 3a 31 38 22 2c 22 75 |/18 11:25:18","u|
+|00000050| 69 64 22 3a 22 33 62 62 38 37 62 39 66 2d 61 38 |id":"3bb87b9f-a8|
+|00000060| 39 63 2d 34 39 36 38 2d 62 65 65 63 2d 61 37 62 |9c-4968-beec-a7b|
+|00000070| 32 61 33 62 39 31 32 62 34 22 7d 63             |2a3b912b4"}c    |
++--------+-------------------------------------------------+----------------+
+2019-02-18 11:25:22,231 - [id: 0x5b246c7d, L:/127.0.0.1:63155 - R:/127.0.0.1:8777] FLUSH
+2019-02-18 11:25:22,234 - 这是一个Map:{数据一=User{name='冉鹏峰', age=24, UID='3bb87b9f-a89c-4968-beec-a7b2a3b912b4', birthday=Mon Feb 18 11:25:00 CST 2019}}
+2019-02-18 11:25:22,235 - [id: 0x838f4448, L:/127.0.0.1:8777 - R:/127.0.0.1:63155] RECEIVED: 250B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 09 00 00 00 6d 70 6f 6a 6f 2e 55 73 65 72 |XR....mpojo.User|
+|00000010| 5b 7b 22 6e 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f |[{"name":"......|
+|00000020| e5 b3 b0 22 2c 22 61 67 65 22 3a 32 34 2c 22 62 |...","age":24,"b|
+|00000030| 69 72 74 68 64 61 79 22 3a 22 32 30 31 39 2f 30 |irthday":"2019/0|
+|00000040| 32 2f 31 38 20 31 31 3a 32 35 3a 31 38 22 2c 22 |2/18 11:25:18","|
+|00000050| 75 69 64 22 3a 22 33 62 62 38 37 62 39 66 2d 61 |uid":"3bb87b9f-a|
+|00000060| 38 39 63 2d 34 39 36 38 2d 62 65 65 63 2d 61 37 |89c-4968-beec-a7|
+|00000070| 62 32 61 33 62 39 31 32 62 34 22 7d 5d 63 58 51 |b2a3b912b4"}]cXQ|
+|00000080| 09 00 00 00 6b 70 6f 6a 6f 2e 55 73 65 72 7b 22 |....kpojo.User{"|
+|00000090| 6e 61 6d 65 22 3a 22 e5 86 89 e9 b9 8f e5 b3 b0 |name":".........|
+|000000a0| 22 2c 22 61 67 65 22 3a 32 34 2c 22 62 69 72 74 |","age":24,"birt|
+|000000b0| 68 64 61 79 22 3a 22 32 30 31 39 2f 30 32 2f 31 |hday":"2019/02/1|
+|000000c0| 38 20 31 31 3a 32 35 3a 31 38 22 2c 22 75 69 64 |8 11:25:18","uid|
+|000000d0| 22 3a 22 33 62 62 38 37 62 39 66 2d 61 38 39 63 |":"3bb87b9f-a89c|
+|000000e0| 2d 34 39 36 38 2d 62 65 65 63 2d 61 37 62 32 61 |-4968-beec-a7b2a|
+|000000f0| 33 62 39 31 32 62 34 22 7d 63                   |3b912b4"}c      |
++--------+-------------------------------------------------+----------------+
+2019-02-18 11:25:22,235 - 开始解码数据……
+2019-02-18 11:25:22,235 - 数据开头格式正确
+2019-02-18 11:25:22,235 - 数据解码成功
+2019-02-18 11:25:22,235 - 开始封装数据……
+2019-02-18 11:25:22,243 - 这是一个List:[User{name='冉鹏峰', age=24, UID='3bb87b9f-a89c-4968-beec-a7b2a3b912b4', birthday=Mon Feb 18 11:25:00 CST 2019}]
+2019-02-18 11:25:22,243 - 开始解码数据……
+2019-02-18 11:25:22,243 - 数据开头格式正确
+2019-02-18 11:25:22,243 - 数据解码成功
+2019-02-18 11:25:22,243 - 开始封装数据……
+2019-02-18 11:25:22,243 - 这是一个对象：pojo.User
+2019-02-18 11:25:22,243 - 这是一个对象：User{name='冉鹏峰', age=24, UID='3bb87b9f-a89c-4968-beec-a7b2a3b912b4', birthday=Mon Feb 18 11:25:00 CST 2019}
+2019-02-18 11:31:03,226 - [id: 0x838f4448, L:/127.0.0.1:8777 - R:/127.0.0.1:63155] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 11:31:03,227 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-02-18 11:31:03,227 - [id: 0x838f4448, L:/127.0.0.1:8777 ! R:/127.0.0.1:63155] INACTIVE
+2019-02-18 11:31:03,227 - [id: 0x838f4448, L:/127.0.0.1:8777 ! R:/127.0.0.1:63155] UNREGISTERED

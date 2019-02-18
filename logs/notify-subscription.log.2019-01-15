@@ -1,0 +1,1423 @@
+2019-01-15 11:02:09,885 - 正在启动tcp服务器……
+2019-01-15 11:02:10,008 - Using Log4J as the default logging framework
+2019-01-15 11:02:10,030 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:02:10,059 - java.nio.Buffer.address: available
+2019-01-15 11:02:10,060 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:02:10,060 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:02:10,061 - direct buffer constructor: available
+2019-01-15 11:02:10,062 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:02:10,062 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:02:10,063 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:02:10,064 - Platform: Windows
+2019-01-15 11:02:10,065 - Java version: 8
+2019-01-15 11:02:10,065 - -Dio.netty.noUnsafe: false
+2019-01-15 11:02:10,065 - sun.misc.Unsafe: available
+2019-01-15 11:02:10,065 - -Dio.netty.noJavassist: false
+2019-01-15 11:02:10,066 - Javassist: unavailable
+2019-01-15 11:02:10,066 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:02:10,066 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:02:10,066 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:02:10,066 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:02:10,067 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:02:10,088 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:02:10,088 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:02:10,089 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:02:10,384 - -Dio.netty.processId: 280 (auto-detected)
+2019-01-15 11:02:10,386 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:02:10,386 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:02:10,520 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:02:10,521 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:02:10,691 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:02:10,692 - -Dio.netty.initialSeedUniquifier: 0xcf76657f148d8d06
+2019-01-15 11:02:10,710 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:02:10,710 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:02:10,742 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:02:10,743 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:02:10,743 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:02:10,743 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:02:10,749 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:02:10,749 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:02:10,749 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:02:10,761 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:02:21,226 - Using Log4J as the default logging framework
+2019-01-15 11:02:21,230 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:02:21,257 - java.nio.Buffer.address: available
+2019-01-15 11:02:21,258 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:02:21,258 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:02:21,258 - direct buffer constructor: available
+2019-01-15 11:02:21,259 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:02:21,259 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:02:21,260 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:02:21,260 - Platform: Windows
+2019-01-15 11:02:21,260 - Java version: 8
+2019-01-15 11:02:21,260 - -Dio.netty.noUnsafe: false
+2019-01-15 11:02:21,260 - sun.misc.Unsafe: available
+2019-01-15 11:02:21,261 - -Dio.netty.noJavassist: false
+2019-01-15 11:02:21,261 - Javassist: unavailable
+2019-01-15 11:02:21,261 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:02:21,262 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:02:21,262 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:02:21,262 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:02:21,262 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:02:21,275 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:02:21,275 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:02:21,277 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:02:21,715 - -Dio.netty.processId: 7784 (auto-detected)
+2019-01-15 11:02:21,717 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:02:21,717 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:02:21,860 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:02:21,860 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:02:22,029 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:02:22,030 - -Dio.netty.initialSeedUniquifier: 0x18f51ce7e444247d
+2019-01-15 11:02:22,039 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:02:22,039 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:02:22,056 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:02:22,064 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:02:22,065 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:02:22,065 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:02:22,103 - [id: 0x6c19aaa5] REGISTERED
+2019-01-15 11:02:22,103 - [id: 0x6c19aaa5] CONNECT: /127.0.0.1:8777
+2019-01-15 11:02:22,106 - [id: 0x6c19aaa5, L:/127.0.0.1:55836 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:02:22,280 - [id: 0x77b4ec49, L:/127.0.0.1:8777 - R:/127.0.0.1:55836] REGISTERED
+2019-01-15 11:02:22,280 - [id: 0x77b4ec49, L:/127.0.0.1:8777 - R:/127.0.0.1:55836] ACTIVE
+2019-01-15 11:02:22,324 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:02:22,324 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:02:22,324 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:02:22,324 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:02:22,334 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:02:22,335 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@903a715
+2019-01-15 11:02:22,339 - [id: 0x6c19aaa5, L:/127.0.0.1:55836 - R:/127.0.0.1:8777] WRITE: 188B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 51 00 00 00 b5 7b 22 63 6c 61 73 73 4e 61 6d |XQ....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4a 75 59 57 31 |object":"eyJuYW1|
+|00000030| 6c 49 6a 6f 69 35 59 61 4a 36 62 6d 50 35 62 4f |lIjoi5YaJ6bmP5bO|
+|00000040| 77 49 69 77 69 59 57 64 6c 49 6a 6f 79 4e 43 77 |wIiwiYWdlIjoyNCw|
+|00000050| 69 59 6d 6c 79 64 47 68 6b 59 58 6b 69 4f 69 49 |iYmlydGhkYXkiOiI|
+|00000060| 79 4d 44 45 35 4c 7a 41 78 4c 7a 45 31 49 44 45 |yMDE5LzAxLzE1IDE|
+|00000070| 78 4f 6a 41 79 4f 6a 45 31 49 69 77 69 64 57 6c |xOjAyOjE1IiwidWl|
+|00000080| 6b 49 6a 6f 69 4d 57 4e 6b 4e 57 49 33 4e 6d 4d |kIjoiMWNkNWI3NmM|
+|00000090| 74 59 54 5a 69 4e 69 30 30 4f 44 6c 6d 4c 54 67 |tYTZiNi00ODlmLTg|
+|000000a0| 7a 4f 44 67 74 4d 7a 67 31 5a 44 63 32 4d 6a 6b |zODgtMzg1ZDc2Mjk|
+|000000b0| 78 4d 6d 4d 31 49 6e 30 3d 22 7d 63             |xMmM1In0="}c    |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:02:22,340 - [id: 0x6c19aaa5, L:/127.0.0.1:55836 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:02:22,344 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:02:22,344 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:02:22,344 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:02:22,344 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:02:22,351 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:02:22,353 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@15bce349
+2019-01-15 11:02:22,356 - [id: 0x77b4ec49, L:/127.0.0.1:8777 - R:/127.0.0.1:55836] RECEIVED: 188B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 51 00 00 00 b5 7b 22 63 6c 61 73 73 4e 61 6d |XQ....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4a 75 59 57 31 |object":"eyJuYW1|
+|00000030| 6c 49 6a 6f 69 35 59 61 4a 36 62 6d 50 35 62 4f |lIjoi5YaJ6bmP5bO|
+|00000040| 77 49 69 77 69 59 57 64 6c 49 6a 6f 79 4e 43 77 |wIiwiYWdlIjoyNCw|
+|00000050| 69 59 6d 6c 79 64 47 68 6b 59 58 6b 69 4f 69 49 |iYmlydGhkYXkiOiI|
+|00000060| 79 4d 44 45 35 4c 7a 41 78 4c 7a 45 31 49 44 45 |yMDE5LzAxLzE1IDE|
+|00000070| 78 4f 6a 41 79 4f 6a 45 31 49 69 77 69 64 57 6c |xOjAyOjE1IiwidWl|
+|00000080| 6b 49 6a 6f 69 4d 57 4e 6b 4e 57 49 33 4e 6d 4d |kIjoiMWNkNWI3NmM|
+|00000090| 74 59 54 5a 69 4e 69 30 30 4f 44 6c 6d 4c 54 67 |tYTZiNi00ODlmLTg|
+|000000a0| 7a 4f 44 67 74 4d 7a 67 31 5a 44 63 32 4d 6a 6b |zODgtMzg1ZDc2Mjk|
+|000000b0| 78 4d 6d 4d 31 49 6e 30 3d 22 7d 63             |xMmM1In0="}c    |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:02:22,357 - 开始解码数据……
+2019-01-15 11:02:22,357 - 数据开头格式正确
+2019-01-15 11:02:22,399 - 数据解码成功
+2019-01-15 11:02:22,399 - 开始封装数据……
+2019-01-15 11:02:22,406 - com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "className" (class pojo.User), not marked as ignorable (4 known properties: "uid", "name", "birthday", "age"])
+ at [Source: (byte[])"{"className":"pojo.User","object":"eyJuYW1lIjoi5YaJ6bmP5bOwIiwiYWdlIjoyNCwiYmlydGhkYXkiOiIyMDE5LzAxLzE1IDExOjAyOjE1IiwidWlkIjoiMWNkNWI3NmMtYTZiNi00ODlmLTgzODgtMzg1ZDc2MjkxMmM1In0="}"; line: 1, column: 15] (through reference chain: pojo.User["className"])
+2019-01-15 11:02:47,312 - [id: 0x77b4ec49, L:/127.0.0.1:8777 - R:/127.0.0.1:55836] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-01-15 11:02:47,314 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-01-15 11:02:47,315 - [id: 0x77b4ec49, L:/127.0.0.1:8777 ! R:/127.0.0.1:55836] INACTIVE
+2019-01-15 11:02:47,317 - [id: 0x77b4ec49, L:/127.0.0.1:8777 ! R:/127.0.0.1:55836] UNREGISTERED
+2019-01-15 11:03:25,890 - 正在启动tcp服务器……
+2019-01-15 11:03:25,901 - Using Log4J as the default logging framework
+2019-01-15 11:03:25,905 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:03:25,932 - java.nio.Buffer.address: available
+2019-01-15 11:03:25,933 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:03:25,933 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:03:25,933 - direct buffer constructor: available
+2019-01-15 11:03:25,934 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:03:25,934 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:03:25,935 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:03:25,935 - Platform: Windows
+2019-01-15 11:03:25,935 - Java version: 8
+2019-01-15 11:03:25,935 - -Dio.netty.noUnsafe: false
+2019-01-15 11:03:25,935 - sun.misc.Unsafe: available
+2019-01-15 11:03:25,935 - -Dio.netty.noJavassist: false
+2019-01-15 11:03:25,936 - Javassist: unavailable
+2019-01-15 11:03:25,936 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:03:25,936 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:03:25,936 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:03:25,937 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:03:25,937 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:03:25,951 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:03:25,951 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:03:25,953 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:03:26,238 - -Dio.netty.processId: 22144 (auto-detected)
+2019-01-15 11:03:26,240 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:03:26,240 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:03:26,368 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:03:26,369 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:03:26,538 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:03:26,539 - -Dio.netty.initialSeedUniquifier: 0x6fa3b8ff8a312801
+2019-01-15 11:03:26,549 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:03:26,549 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:03:26,565 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:03:26,566 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:03:26,566 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:03:26,566 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:03:26,566 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:03:26,573 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:03:26,573 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:03:26,573 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:03:26,585 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:03:29,186 - Using Log4J as the default logging framework
+2019-01-15 11:03:29,191 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:03:29,213 - java.nio.Buffer.address: available
+2019-01-15 11:03:29,214 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:03:29,215 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:03:29,216 - direct buffer constructor: available
+2019-01-15 11:03:29,216 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:03:29,216 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:03:29,217 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:03:29,218 - Platform: Windows
+2019-01-15 11:03:29,218 - Java version: 8
+2019-01-15 11:03:29,218 - -Dio.netty.noUnsafe: false
+2019-01-15 11:03:29,218 - sun.misc.Unsafe: available
+2019-01-15 11:03:29,219 - -Dio.netty.noJavassist: false
+2019-01-15 11:03:29,219 - Javassist: unavailable
+2019-01-15 11:03:29,219 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:03:29,220 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:03:29,220 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:03:29,220 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:03:29,220 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:03:29,241 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:03:29,241 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:03:29,242 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:03:29,506 - -Dio.netty.processId: 14352 (auto-detected)
+2019-01-15 11:03:29,507 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:03:29,507 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:03:29,647 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:03:29,648 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:03:29,806 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:03:29,808 - -Dio.netty.initialSeedUniquifier: 0x69f29ddb13b0bad0
+2019-01-15 11:03:29,818 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:03:29,818 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:03:29,833 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:03:29,840 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:03:29,841 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:03:29,841 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:03:29,872 - [id: 0xca27ff43] REGISTERED
+2019-01-15 11:03:29,873 - [id: 0xca27ff43] CONNECT: /127.0.0.1:8777
+2019-01-15 11:03:29,875 - [id: 0xca27ff43, L:/127.0.0.1:56007 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:03:30,010 - [id: 0xccc4c2ca, L:/127.0.0.1:8777 - R:/127.0.0.1:56007] REGISTERED
+2019-01-15 11:03:30,010 - [id: 0xccc4c2ca, L:/127.0.0.1:8777 - R:/127.0.0.1:56007] ACTIVE
+2019-01-15 11:03:30,042 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:03:30,043 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:03:30,043 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:03:30,043 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:03:30,049 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:03:30,050 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@903a715
+2019-01-15 11:03:30,055 - [id: 0xca27ff43, L:/127.0.0.1:56007 - R:/127.0.0.1:8777] WRITE: 188B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 51 00 00 00 b5 7b 22 63 6c 61 73 73 4e 61 6d |XQ....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4a 75 59 57 31 |object":"eyJuYW1|
+|00000030| 6c 49 6a 6f 69 35 59 61 4a 36 62 6d 50 35 62 4f |lIjoi5YaJ6bmP5bO|
+|00000040| 77 49 69 77 69 59 57 64 6c 49 6a 6f 79 4e 43 77 |wIiwiYWdlIjoyNCw|
+|00000050| 69 59 6d 6c 79 64 47 68 6b 59 58 6b 69 4f 69 49 |iYmlydGhkYXkiOiI|
+|00000060| 79 4d 44 45 35 4c 7a 41 78 4c 7a 45 31 49 44 45 |yMDE5LzAxLzE1IDE|
+|00000070| 78 4f 6a 41 7a 4f 6a 45 31 49 69 77 69 64 57 6c |xOjAzOjE1IiwidWl|
+|00000080| 6b 49 6a 6f 69 59 54 52 68 4d 44 41 35 5a 47 51 |kIjoiYTRhMDA5ZGQ|
+|00000090| 74 4e 32 56 68 4f 53 30 30 4d 32 46 6a 4c 57 45 |tN2VhOS00M2FjLWE|
+|000000a0| 77 4f 44 67 74 5a 54 5a 68 4d 54 46 6d 5a 6a 51 |wODgtZTZhMTFmZjQ|
+|000000b0| 33 4d 32 4d 31 49 6e 30 3d 22 7d 63             |3M2M1In0="}c    |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:03:30,056 - [id: 0xca27ff43, L:/127.0.0.1:56007 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:03:30,060 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:03:30,060 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:03:30,060 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:03:30,060 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:03:30,067 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:03:30,068 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d4f2bae
+2019-01-15 11:03:30,071 - [id: 0xccc4c2ca, L:/127.0.0.1:8777 - R:/127.0.0.1:56007] RECEIVED: 188B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 51 00 00 00 b5 7b 22 63 6c 61 73 73 4e 61 6d |XQ....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4a 75 59 57 31 |object":"eyJuYW1|
+|00000030| 6c 49 6a 6f 69 35 59 61 4a 36 62 6d 50 35 62 4f |lIjoi5YaJ6bmP5bO|
+|00000040| 77 49 69 77 69 59 57 64 6c 49 6a 6f 79 4e 43 77 |wIiwiYWdlIjoyNCw|
+|00000050| 69 59 6d 6c 79 64 47 68 6b 59 58 6b 69 4f 69 49 |iYmlydGhkYXkiOiI|
+|00000060| 79 4d 44 45 35 4c 7a 41 78 4c 7a 45 31 49 44 45 |yMDE5LzAxLzE1IDE|
+|00000070| 78 4f 6a 41 7a 4f 6a 45 31 49 69 77 69 64 57 6c |xOjAzOjE1IiwidWl|
+|00000080| 6b 49 6a 6f 69 59 54 52 68 4d 44 41 35 5a 47 51 |kIjoiYTRhMDA5ZGQ|
+|00000090| 74 4e 32 56 68 4f 53 30 30 4d 32 46 6a 4c 57 45 |tN2VhOS00M2FjLWE|
+|000000a0| 77 4f 44 67 74 5a 54 5a 68 4d 54 46 6d 5a 6a 51 |wODgtZTZhMTFmZjQ|
+|000000b0| 33 4d 32 4d 31 49 6e 30 3d 22 7d 63             |3M2M1In0="}c    |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:03:30,176 - 开始解码数据……
+2019-01-15 11:03:30,176 - 数据开头格式正确
+2019-01-15 11:03:30,209 - 数据解码成功
+2019-01-15 11:03:30,209 - 开始封装数据……
+2019-01-15 11:03:30,221 - 这是一个对象：pojo.User
+2019-01-15 11:03:30,224 - 这是一个对象：User{name='冉鹏峰', age=24, UID='a4a009dd-7ea9-43ac-a088-e6a11ff473c5', birthday=Tue Jan 15 11:03:00 CST 2019}
+2019-01-15 11:05:16,841 - 正在启动tcp服务器……
+2019-01-15 11:05:16,853 - Using Log4J as the default logging framework
+2019-01-15 11:05:16,858 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:05:16,887 - java.nio.Buffer.address: available
+2019-01-15 11:05:16,887 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:05:16,888 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:05:16,888 - direct buffer constructor: available
+2019-01-15 11:05:16,889 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:05:16,889 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:05:16,889 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:05:16,890 - Platform: Windows
+2019-01-15 11:05:16,890 - Java version: 8
+2019-01-15 11:05:16,890 - -Dio.netty.noUnsafe: false
+2019-01-15 11:05:16,891 - sun.misc.Unsafe: available
+2019-01-15 11:05:16,891 - -Dio.netty.noJavassist: false
+2019-01-15 11:05:16,892 - Javassist: unavailable
+2019-01-15 11:05:16,892 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:05:16,892 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:05:16,892 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:05:16,892 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:05:16,893 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:05:16,907 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:05:16,907 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:05:16,908 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:05:17,175 - -Dio.netty.processId: 11668 (auto-detected)
+2019-01-15 11:05:17,177 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:05:17,177 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:05:17,306 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:05:17,307 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:05:17,476 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:05:17,477 - -Dio.netty.initialSeedUniquifier: 0xb43475f909367ebb
+2019-01-15 11:05:17,485 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:05:17,485 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:05:17,502 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:05:17,510 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:05:17,510 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:05:17,510 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:05:17,522 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:05:19,647 - Using Log4J as the default logging framework
+2019-01-15 11:05:19,652 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:05:19,681 - java.nio.Buffer.address: available
+2019-01-15 11:05:19,681 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:05:19,682 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:05:19,682 - direct buffer constructor: available
+2019-01-15 11:05:19,683 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:05:19,683 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:05:19,684 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:05:19,684 - Platform: Windows
+2019-01-15 11:05:19,684 - Java version: 8
+2019-01-15 11:05:19,684 - -Dio.netty.noUnsafe: false
+2019-01-15 11:05:19,684 - sun.misc.Unsafe: available
+2019-01-15 11:05:19,685 - -Dio.netty.noJavassist: false
+2019-01-15 11:05:19,685 - Javassist: unavailable
+2019-01-15 11:05:19,685 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:05:19,686 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:05:19,686 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:05:19,686 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:05:19,686 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:05:19,700 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:05:19,700 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:05:19,702 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:05:19,993 - -Dio.netty.processId: 1008 (auto-detected)
+2019-01-15 11:05:19,995 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:05:19,995 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:05:20,126 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:05:20,127 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:05:20,331 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:05:20,332 - -Dio.netty.initialSeedUniquifier: 0xeaa5907ae9a67e03
+2019-01-15 11:05:20,347 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:05:20,347 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:05:20,373 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:05:20,374 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:05:20,384 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:05:20,384 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:05:20,384 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:05:20,420 - [id: 0x72c1fc82] REGISTERED
+2019-01-15 11:05:20,420 - [id: 0x72c1fc82] CONNECT: /127.0.0.1:8777
+2019-01-15 11:05:20,425 - [id: 0x72c1fc82, L:/127.0.0.1:56187 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:05:20,644 - [id: 0x33356e2a, L:/127.0.0.1:8777 - R:/127.0.0.1:56187] REGISTERED
+2019-01-15 11:05:20,644 - [id: 0x33356e2a, L:/127.0.0.1:8777 - R:/127.0.0.1:56187] ACTIVE
+2019-01-15 11:05:20,681 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:05:20,681 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:05:20,681 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:05:20,681 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:05:20,687 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:05:20,689 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@509e7af2
+2019-01-15 11:05:20,693 - [id: 0x72c1fc82, L:/127.0.0.1:56187 - R:/127.0.0.1:8777] WRITE: 520B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 00 00 02 01 7b 22 63 6c 61 73 73 4e 61 6d |XS....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4c 6d 6c 62 44 |object":"eyLmlbD|
+|00000030| 6d 6a 61 37 6b 75 49 41 69 4f 6e 73 69 62 6d 46 |mja7kuIAiOnsibmF|
+|00000040| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000050| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000060| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000070| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000080| 78 4d 54 6f 77 4e 54 6f 78 4e 53 49 73 49 6e 56 |xMTowNToxNSIsInV|
+|00000090| 70 5a 43 49 36 49 6a 67 35 5a 6a 4e 6a 4e 47 51 |pZCI6Ijg5ZjNjNGQ|
+|000000a0| 79 4c 54 52 69 4d 6a 63 74 4e 44 41 33 59 69 31 |yLTRiMjctNDA3Yi1|
+|000000b0| 69 59 32 45 34 4c 57 52 6b 59 54 42 6a 4d 54 59 |iY2E4LWRkYTBjMTY|
+|000000c0| 35 59 7a 59 77 4e 43 4a 39 4c 43 4c 6d 6c 62 44 |5YzYwNCJ9LCLmlbD|
+|000000d0| 6d 6a 61 34 79 49 6a 70 37 49 6d 35 68 62 57 55 |mja4yIjp7Im5hbWU|
+|000000e0| 69 4f 69 4c 6c 68 6f 6e 70 75 59 2f 6c 73 37 41 |iOiLlhonpuY/ls7A|
+|000000f0| 69 4c 43 4a 68 5a 32 55 69 4f 6a 49 30 4c 43 4a |iLCJhZ2UiOjI0LCJ|
+|00000100| 69 61 58 4a 30 61 47 52 68 65 53 49 36 49 6a 49 |iaXJ0aGRheSI6IjI|
+|00000110| 77 4d 54 6b 76 4d 44 45 76 4d 54 55 67 4d 54 45 |wMTkvMDEvMTUgMTE|
+|00000120| 36 4d 44 55 36 4d 54 55 69 4c 43 4a 31 61 57 51 |6MDU6MTUiLCJ1aWQ|
+|00000130| 69 4f 69 49 34 4f 57 59 7a 59 7a 52 6b 4d 69 30 |iOiI4OWYzYzRkMi0|
+|00000140| 30 59 6a 49 33 4c 54 51 77 4e 32 49 74 59 6d 4e |0YjI3LTQwN2ItYmN|
+|00000150| 68 4f 43 31 6b 5a 47 45 77 59 7a 45 32 4f 57 4d |hOC1kZGEwYzE2OWM|
+|00000160| 32 4d 44 51 69 66 53 77 69 35 70 57 77 35 6f 32 |2MDQifSwi5pWw5o2|
+|00000170| 75 4d 79 49 36 65 79 4a 75 59 57 31 6c 49 6a 6f |uMyI6eyJuYW1lIjo|
+|00000180| 69 35 59 61 4a 36 62 6d 50 35 62 4f 77 49 69 77 |i5YaJ6bmP5bOwIiw|
+|00000190| 69 59 57 64 6c 49 6a 6f 79 4e 43 77 69 59 6d 6c |iYWdlIjoyNCwiYml|
+|000001a0| 79 64 47 68 6b 59 58 6b 69 4f 69 49 79 4d 44 45 |ydGhkYXkiOiIyMDE|
+|000001b0| 35 4c 7a 41 78 4c 7a 45 31 49 44 45 78 4f 6a 41 |5LzAxLzE1IDExOjA|
+|000001c0| 31 4f 6a 45 31 49 69 77 69 64 57 6c 6b 49 6a 6f |1OjE1IiwidWlkIjo|
+|000001d0| 69 4f 44 6c 6d 4d 32 4d 30 5a 44 49 74 4e 47 49 |iODlmM2M0ZDItNGI|
+|000001e0| 79 4e 79 30 30 4d 44 64 69 4c 57 4a 6a 59 54 67 |yNy00MDdiLWJjYTg|
+|000001f0| 74 5a 47 52 68 4d 47 4d 78 4e 6a 6c 6a 4e 6a 41 |tZGRhMGMxNjljNjA|
+|00000200| 30 49 6e 31 39 22 7d 63                         |0In19"}c        |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:05:20,693 - [id: 0x72c1fc82, L:/127.0.0.1:56187 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:05:20,696 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:05:20,696 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:05:20,696 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:05:20,696 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:05:20,702 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:05:20,703 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d4f2bae
+2019-01-15 11:05:20,706 - [id: 0x33356e2a, L:/127.0.0.1:8777 - R:/127.0.0.1:56187] RECEIVED: 520B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 00 00 02 01 7b 22 63 6c 61 73 73 4e 61 6d |XS....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4c 6d 6c 62 44 |object":"eyLmlbD|
+|00000030| 6d 6a 61 37 6b 75 49 41 69 4f 6e 73 69 62 6d 46 |mja7kuIAiOnsibmF|
+|00000040| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000050| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000060| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000070| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000080| 78 4d 54 6f 77 4e 54 6f 78 4e 53 49 73 49 6e 56 |xMTowNToxNSIsInV|
+|00000090| 70 5a 43 49 36 49 6a 67 35 5a 6a 4e 6a 4e 47 51 |pZCI6Ijg5ZjNjNGQ|
+|000000a0| 79 4c 54 52 69 4d 6a 63 74 4e 44 41 33 59 69 31 |yLTRiMjctNDA3Yi1|
+|000000b0| 69 59 32 45 34 4c 57 52 6b 59 54 42 6a 4d 54 59 |iY2E4LWRkYTBjMTY|
+|000000c0| 35 59 7a 59 77 4e 43 4a 39 4c 43 4c 6d 6c 62 44 |5YzYwNCJ9LCLmlbD|
+|000000d0| 6d 6a 61 34 79 49 6a 70 37 49 6d 35 68 62 57 55 |mja4yIjp7Im5hbWU|
+|000000e0| 69 4f 69 4c 6c 68 6f 6e 70 75 59 2f 6c 73 37 41 |iOiLlhonpuY/ls7A|
+|000000f0| 69 4c 43 4a 68 5a 32 55 69 4f 6a 49 30 4c 43 4a |iLCJhZ2UiOjI0LCJ|
+|00000100| 69 61 58 4a 30 61 47 52 68 65 53 49 36 49 6a 49 |iaXJ0aGRheSI6IjI|
+|00000110| 77 4d 54 6b 76 4d 44 45 76 4d 54 55 67 4d 54 45 |wMTkvMDEvMTUgMTE|
+|00000120| 36 4d 44 55 36 4d 54 55 69 4c 43 4a 31 61 57 51 |6MDU6MTUiLCJ1aWQ|
+|00000130| 69 4f 69 49 34 4f 57 59 7a 59 7a 52 6b 4d 69 30 |iOiI4OWYzYzRkMi0|
+|00000140| 30 59 6a 49 33 4c 54 51 77 4e 32 49 74 59 6d 4e |0YjI3LTQwN2ItYmN|
+|00000150| 68 4f 43 31 6b 5a 47 45 77 59 7a 45 32 4f 57 4d |hOC1kZGEwYzE2OWM|
+|00000160| 32 4d 44 51 69 66 53 77 69 35 70 57 77 35 6f 32 |2MDQifSwi5pWw5o2|
+|00000170| 75 4d 79 49 36 65 79 4a 75 59 57 31 6c 49 6a 6f |uMyI6eyJuYW1lIjo|
+|00000180| 69 35 59 61 4a 36 62 6d 50 35 62 4f 77 49 69 77 |i5YaJ6bmP5bOwIiw|
+|00000190| 69 59 57 64 6c 49 6a 6f 79 4e 43 77 69 59 6d 6c |iYWdlIjoyNCwiYml|
+|000001a0| 79 64 47 68 6b 59 58 6b 69 4f 69 49 79 4d 44 45 |ydGhkYXkiOiIyMDE|
+|000001b0| 35 4c 7a 41 78 4c 7a 45 31 49 44 45 78 4f 6a 41 |5LzAxLzE1IDExOjA|
+|000001c0| 31 4f 6a 45 31 49 69 77 69 64 57 6c 6b 49 6a 6f |1OjE1IiwidWlkIjo|
+|000001d0| 69 4f 44 6c 6d 4d 32 4d 30 5a 44 49 74 4e 47 49 |iODlmM2M0ZDItNGI|
+|000001e0| 79 4e 79 30 30 4d 44 64 69 4c 57 4a 6a 59 54 67 |yNy00MDdiLWJjYTg|
+|000001f0| 74 5a 47 52 68 4d 47 4d 78 4e 6a 6c 6a 4e 6a 41 |tZGRhMGMxNjljNjA|
+|00000200| 30 49 6e 31 39 22 7d 63                         |0In19"}c        |
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:05:20,707 - 开始解码数据……
+2019-01-15 11:05:20,707 - 数据开头格式正确
+2019-01-15 11:05:20,741 - 数据解码成功
+2019-01-15 11:05:20,741 - 开始封装数据……
+2019-01-15 11:05:20,754 - 这是一个Map:{数据一=User{name='冉鹏峰', age=24, UID='89f3c4d2-4b27-407b-bca8-dda0c169c604', birthday=Tue Jan 15 11:05:00 CST 2019}, 数据2=User{name='冉鹏峰', age=24, UID='89f3c4d2-4b27-407b-bca8-dda0c169c604', birthday=Tue Jan 15 11:05:00 CST 2019}, 数据3=User{name='冉鹏峰', age=24, UID='89f3c4d2-4b27-407b-bca8-dda0c169c604', birthday=Tue Jan 15 11:05:00 CST 2019}}
+2019-01-15 11:09:14,366 - 正在启动tcp服务器……
+2019-01-15 11:09:14,375 - Using Log4J as the default logging framework
+2019-01-15 11:09:14,379 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:09:14,409 - java.nio.Buffer.address: available
+2019-01-15 11:09:14,410 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:09:14,410 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:09:14,411 - direct buffer constructor: available
+2019-01-15 11:09:14,411 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:09:14,411 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:09:14,412 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:09:14,412 - Platform: Windows
+2019-01-15 11:09:14,413 - Java version: 8
+2019-01-15 11:09:14,413 - -Dio.netty.noUnsafe: false
+2019-01-15 11:09:14,413 - sun.misc.Unsafe: available
+2019-01-15 11:09:14,413 - -Dio.netty.noJavassist: false
+2019-01-15 11:09:14,413 - Javassist: unavailable
+2019-01-15 11:09:14,414 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:09:14,414 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:09:14,414 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:09:14,414 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:09:14,414 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:09:14,427 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:09:14,427 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:09:14,429 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:09:14,710 - -Dio.netty.processId: 21468 (auto-detected)
+2019-01-15 11:09:14,712 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:09:14,712 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:09:14,843 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:09:14,844 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:09:15,011 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:09:15,012 - -Dio.netty.initialSeedUniquifier: 0x670d99f7cfd8f1dd
+2019-01-15 11:09:15,022 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:09:15,022 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:09:15,041 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:09:15,050 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:09:15,050 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:09:15,050 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:09:15,064 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:09:17,374 - Using Log4J as the default logging framework
+2019-01-15 11:09:17,379 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:09:17,406 - java.nio.Buffer.address: available
+2019-01-15 11:09:17,407 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:09:17,407 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:09:17,408 - direct buffer constructor: available
+2019-01-15 11:09:17,408 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:09:17,408 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:09:17,409 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:09:17,409 - Platform: Windows
+2019-01-15 11:09:17,409 - Java version: 8
+2019-01-15 11:09:17,409 - -Dio.netty.noUnsafe: false
+2019-01-15 11:09:17,409 - sun.misc.Unsafe: available
+2019-01-15 11:09:17,410 - -Dio.netty.noJavassist: false
+2019-01-15 11:09:17,410 - Javassist: unavailable
+2019-01-15 11:09:17,410 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:09:17,410 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:09:17,411 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:09:17,411 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:09:17,411 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:09:17,423 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:09:17,424 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:09:17,425 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:09:17,685 - -Dio.netty.processId: 10696 (auto-detected)
+2019-01-15 11:09:17,686 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:09:17,686 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:09:17,817 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:09:17,818 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:09:17,977 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:09:17,978 - -Dio.netty.initialSeedUniquifier: 0x132065f133d9d0be
+2019-01-15 11:09:17,989 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:09:17,990 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:09:18,012 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:09:18,013 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:09:18,013 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:09:18,020 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:09:18,021 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:09:18,021 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:09:18,047 - [id: 0x271d597c] REGISTERED
+2019-01-15 11:09:18,047 - [id: 0x271d597c] CONNECT: /127.0.0.1:8777
+2019-01-15 11:09:18,050 - [id: 0x271d597c, L:/127.0.0.1:56430 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:09:18,216 - [id: 0x42c2921d, L:/127.0.0.1:8777 - R:/127.0.0.1:56430] REGISTERED
+2019-01-15 11:09:18,217 - [id: 0x42c2921d, L:/127.0.0.1:8777 - R:/127.0.0.1:56430] ACTIVE
+2019-01-15 11:09:18,237 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:09:18,237 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:09:18,237 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:09:18,237 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:09:18,245 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:09:18,247 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@744cc004
+2019-01-15 11:09:18,251 - [id: 0x271d597c, L:/127.0.0.1:56430 - R:/127.0.0.1:8777] WRITE: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000090| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|000000a0| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|000000b0| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000120| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|00000130| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|00000140| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|000001b0| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|000001c0| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|000001d0| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000240| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|00000250| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|00000260| 35 5a 6d 59 79 4d 69 4a 39 58 51 3d 3d 22 7d 63 |5ZmYyMiJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:09:18,253 - [id: 0x271d597c, L:/127.0.0.1:56430 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:09:18,257 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:09:18,257 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:09:18,258 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:09:18,258 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:09:18,265 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:09:18,266 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d4f2bae
+2019-01-15 11:09:18,269 - [id: 0x42c2921d, L:/127.0.0.1:8777 - R:/127.0.0.1:56430] RECEIVED: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000090| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|000000a0| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|000000b0| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000120| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|00000130| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|00000140| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|000001b0| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|000001c0| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|000001d0| 35 5a 6d 59 79 4d 69 4a 39 4c 48 73 69 62 6d 46 |5ZmYyMiJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 78 4d 54 6f 77 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMTowOToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6d 51 79 4e 6a 55 33 59 7a 4e |pZCI6ImQyNjU3YzN|
+|00000240| 69 4c 54 59 32 4d 6d 4d 74 4e 44 4d 32 4d 43 30 |iLTY2MmMtNDM2MC0|
+|00000250| 34 4e 54 51 78 4c 54 6b 7a 4d 54 59 79 59 54 45 |4NTQxLTkzMTYyYTE|
+|00000260| 35 5a 6d 59 79 4d 69 4a 39 58 51 3d 3d 22 7d 63 |5ZmYyMiJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:09:18,270 - 开始解码数据……
+2019-01-15 11:09:18,270 - 数据开头格式正确
+2019-01-15 11:09:18,310 - 数据解码成功
+2019-01-15 11:09:18,310 - 开始封装数据……
+2019-01-15 11:09:18,324 - 这是一个List:[User{name='冉鹏峰', age=24, UID='d2657c3b-662c-4360-8541-93162a19ff22', birthday=Tue Jan 15 11:09:00 CST 2019}, User{name='冉鹏峰', age=24, UID='d2657c3b-662c-4360-8541-93162a19ff22', birthday=Tue Jan 15 11:09:00 CST 2019}, User{name='冉鹏峰', age=24, UID='d2657c3b-662c-4360-8541-93162a19ff22', birthday=Tue Jan 15 11:09:00 CST 2019}, User{name='冉鹏峰', age=24, UID='d2657c3b-662c-4360-8541-93162a19ff22', birthday=Tue Jan 15 11:09:00 CST 2019}]
+2019-01-15 11:09:39,783 - [id: 0x42c2921d, L:/127.0.0.1:8777 - R:/127.0.0.1:56430] EXCEPTION: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-01-15 11:09:39,785 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:366)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:118)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:651)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:574)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:488)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:450)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+2019-01-15 11:09:39,786 - [id: 0x42c2921d, L:/127.0.0.1:8777 ! R:/127.0.0.1:56430] INACTIVE
+2019-01-15 11:09:39,789 - [id: 0x42c2921d, L:/127.0.0.1:8777 ! R:/127.0.0.1:56430] UNREGISTERED
+2019-01-15 11:18:19,450 - 正在启动tcp服务器……
+2019-01-15 11:18:19,461 - Using Log4J as the default logging framework
+2019-01-15 11:18:19,466 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:18:19,486 - java.nio.Buffer.address: available
+2019-01-15 11:18:19,486 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:18:19,487 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:18:19,487 - direct buffer constructor: available
+2019-01-15 11:18:19,488 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:18:19,488 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:18:19,488 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:18:19,489 - Platform: Windows
+2019-01-15 11:18:19,489 - Java version: 8
+2019-01-15 11:18:19,489 - -Dio.netty.noUnsafe: false
+2019-01-15 11:18:19,489 - sun.misc.Unsafe: available
+2019-01-15 11:18:19,489 - -Dio.netty.noJavassist: false
+2019-01-15 11:18:19,490 - Javassist: unavailable
+2019-01-15 11:18:19,490 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:18:19,490 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:18:19,490 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:18:19,491 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:18:19,491 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:18:19,512 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:18:19,512 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:18:19,513 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:18:19,780 - -Dio.netty.processId: 20072 (auto-detected)
+2019-01-15 11:18:19,781 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:18:19,781 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:18:19,911 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:18:19,911 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:18:20,080 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:18:20,081 - -Dio.netty.initialSeedUniquifier: 0x2710cc22d08e677a
+2019-01-15 11:18:20,093 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:18:20,093 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:18:20,110 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:18:20,111 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:18:20,119 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:18:20,119 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:18:20,119 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:18:20,134 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:18:22,229 - Using Log4J as the default logging framework
+2019-01-15 11:18:22,233 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:18:22,261 - java.nio.Buffer.address: available
+2019-01-15 11:18:22,261 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:18:22,262 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:18:22,262 - direct buffer constructor: available
+2019-01-15 11:18:22,263 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:18:22,263 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:18:22,263 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:18:22,264 - Platform: Windows
+2019-01-15 11:18:22,264 - Java version: 8
+2019-01-15 11:18:22,264 - -Dio.netty.noUnsafe: false
+2019-01-15 11:18:22,264 - sun.misc.Unsafe: available
+2019-01-15 11:18:22,265 - -Dio.netty.noJavassist: false
+2019-01-15 11:18:22,265 - Javassist: unavailable
+2019-01-15 11:18:22,265 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:18:22,265 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:18:22,266 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:18:22,266 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:18:22,266 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:18:22,279 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:18:22,279 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:18:22,280 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:18:22,546 - -Dio.netty.processId: 4460 (auto-detected)
+2019-01-15 11:18:22,547 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:18:22,548 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:18:22,685 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:18:22,685 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:18:22,859 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:18:22,860 - -Dio.netty.initialSeedUniquifier: 0x984442be9ff34c83
+2019-01-15 11:18:22,869 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:18:22,869 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:18:22,887 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:18:22,895 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:18:22,895 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:18:22,895 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:18:22,920 - [id: 0x5971afa6] REGISTERED
+2019-01-15 11:18:22,920 - [id: 0x5971afa6] CONNECT: /127.0.0.1:8777
+2019-01-15 11:18:22,922 - [id: 0x5971afa6, L:/127.0.0.1:56935 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:18:23,073 - [id: 0x8dd37656, L:/127.0.0.1:8777 - R:/127.0.0.1:56935] REGISTERED
+2019-01-15 11:18:23,074 - [id: 0x8dd37656, L:/127.0.0.1:8777 - R:/127.0.0.1:56935] ACTIVE
+2019-01-15 11:18:23,090 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:18:23,090 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:18:23,091 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:18:23,091 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:18:23,099 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:18:23,100 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4d7dadc5
+2019-01-15 11:18:23,105 - 不支持的数据协议：class io.netty.buffer.PooledUnsafeDirectByteBuf	期待的数据协议类是：class org.wisdom.protocol.TcpProtocol_2_0
+2019-01-15 11:18:23,111 - [id: 0x5971afa6, L:/127.0.0.1:56935 - R:/127.0.0.1:8777] WRITE: 0B
+2019-01-15 11:18:23,111 - [id: 0x5971afa6, L:/127.0.0.1:56935 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:19:40,122 - 正在启动tcp服务器……
+2019-01-15 11:19:40,134 - Using Log4J as the default logging framework
+2019-01-15 11:19:40,138 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:19:40,158 - java.nio.Buffer.address: available
+2019-01-15 11:19:40,159 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:19:40,159 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:19:40,160 - direct buffer constructor: available
+2019-01-15 11:19:40,160 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:19:40,160 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:19:40,161 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:19:40,161 - Platform: Windows
+2019-01-15 11:19:40,162 - Java version: 8
+2019-01-15 11:19:40,162 - -Dio.netty.noUnsafe: false
+2019-01-15 11:19:40,162 - sun.misc.Unsafe: available
+2019-01-15 11:19:40,162 - -Dio.netty.noJavassist: false
+2019-01-15 11:19:40,163 - Javassist: unavailable
+2019-01-15 11:19:40,163 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:19:40,164 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:19:40,164 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:19:40,164 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:19:40,165 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:19:40,186 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:19:40,186 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:19:40,188 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:19:40,469 - -Dio.netty.processId: 20460 (auto-detected)
+2019-01-15 11:19:40,471 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:19:40,471 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:19:40,606 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:19:40,606 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:19:40,767 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:19:40,768 - -Dio.netty.initialSeedUniquifier: 0x23d0a702df0b6145
+2019-01-15 11:19:40,779 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:19:40,779 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:19:40,798 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:19:40,805 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:19:40,805 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:19:40,805 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:19:40,819 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 11:19:42,898 - Using Log4J as the default logging framework
+2019-01-15 11:19:42,902 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 11:19:42,928 - java.nio.Buffer.address: available
+2019-01-15 11:19:42,929 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 11:19:42,929 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 11:19:42,930 - direct buffer constructor: available
+2019-01-15 11:19:42,930 - java.nio.Bits.unaligned: available, true
+2019-01-15 11:19:42,930 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 11:19:42,931 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 11:19:42,931 - Platform: Windows
+2019-01-15 11:19:42,932 - Java version: 8
+2019-01-15 11:19:42,932 - -Dio.netty.noUnsafe: false
+2019-01-15 11:19:42,932 - sun.misc.Unsafe: available
+2019-01-15 11:19:42,932 - -Dio.netty.noJavassist: false
+2019-01-15 11:19:42,932 - Javassist: unavailable
+2019-01-15 11:19:42,933 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 11:19:42,933 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 11:19:42,933 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 11:19:42,933 - -Dio.netty.noPreferDirect: false
+2019-01-15 11:19:42,933 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 11:19:42,946 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 11:19:42,946 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 11:19:42,948 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 11:19:43,212 - -Dio.netty.processId: 6696 (auto-detected)
+2019-01-15 11:19:43,213 - -Djava.net.preferIPv4Stack: false
+2019-01-15 11:19:43,213 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 11:19:43,366 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 11:19:43,367 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 11:19:43,570 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 11:19:43,572 - -Dio.netty.initialSeedUniquifier: 0x09afe5d4e5281b9f
+2019-01-15 11:19:43,585 - -Dio.netty.leakDetection.level: simple
+2019-01-15 11:19:43,585 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 11:19:43,608 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 11:19:43,609 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 11:19:43,620 - -Dio.netty.allocator.type: pooled
+2019-01-15 11:19:43,620 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 11:19:43,620 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 11:19:43,649 - [id: 0x66a83eed] REGISTERED
+2019-01-15 11:19:43,649 - [id: 0x66a83eed] CONNECT: /127.0.0.1:8777
+2019-01-15 11:19:43,652 - [id: 0x66a83eed, L:/127.0.0.1:57115 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 11:19:43,803 - [id: 0x9b5a0a11, L:/127.0.0.1:8777 - R:/127.0.0.1:57115] REGISTERED
+2019-01-15 11:19:43,804 - [id: 0x9b5a0a11, L:/127.0.0.1:8777 - R:/127.0.0.1:57115] ACTIVE
+2019-01-15 11:19:43,847 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:19:43,847 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:19:43,847 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:19:43,847 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:19:43,854 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:19:43,855 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@60e81e32
+2019-01-15 11:19:43,860 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 624, cap: 1024)
+2019-01-15 11:19:43,861 - [id: 0x66a83eed, L:/127.0.0.1:57115 - R:/127.0.0.1:8777] WRITE: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000090| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|000000a0| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|000000b0| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000120| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|00000130| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|00000140| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|000001b0| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|000001c0| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|000001d0| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000240| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|00000250| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|00000260| 7a 4d 6d 55 7a 4d 79 4a 39 58 51 3d 3d 22 7d 63 |zMmUzMyJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:19:43,964 - [id: 0x66a83eed, L:/127.0.0.1:57115 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 11:19:43,967 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 11:19:43,968 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 11:19:43,968 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 11:19:43,968 - -Dio.netty.recycler.ratio: 8
+2019-01-15 11:19:43,974 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 11:19:43,976 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@15bce349
+2019-01-15 11:19:43,979 - [id: 0x9b5a0a11, L:/127.0.0.1:8777 - R:/127.0.0.1:57115] RECEIVED: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000090| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|000000a0| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|000000b0| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000120| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|00000130| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|00000140| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|000001b0| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|000001c0| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|000001d0| 7a 4d 6d 55 7a 4d 79 4a 39 4c 48 73 69 62 6d 46 |zMmUzMyJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 78 4d 54 6f 78 4f 54 6f 78 4e 53 49 73 49 6e 56 |xMToxOToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6d 5a 69 4d 7a 55 33 4d 54 46 |pZCI6ImZiMzU3MTF|
+|00000240| 69 4c 57 45 7a 4e 44 4d 74 4e 44 59 30 4f 43 30 |iLWEzNDMtNDY0OC0|
+|00000250| 34 4d 6a 55 35 4c 57 4e 6d 4e 57 4d 79 59 57 49 |4MjU5LWNmNWMyYWI|
+|00000260| 7a 4d 6d 55 7a 4d 79 4a 39 58 51 3d 3d 22 7d 63 |zMmUzMyJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 11:19:43,979 - 开始解码数据……
+2019-01-15 11:19:43,980 - 数据开头格式正确
+2019-01-15 11:19:44,015 - 数据解码成功
+2019-01-15 11:19:44,015 - 开始封装数据……
+2019-01-15 11:19:44,028 - 这是一个List:[User{name='冉鹏峰', age=24, UID='fb35711b-a343-4648-8259-cf5c2ab32e33', birthday=Tue Jan 15 11:19:00 CST 2019}, User{name='冉鹏峰', age=24, UID='fb35711b-a343-4648-8259-cf5c2ab32e33', birthday=Tue Jan 15 11:19:00 CST 2019}, User{name='冉鹏峰', age=24, UID='fb35711b-a343-4648-8259-cf5c2ab32e33', birthday=Tue Jan 15 11:19:00 CST 2019}, User{name='冉鹏峰', age=24, UID='fb35711b-a343-4648-8259-cf5c2ab32e33', birthday=Tue Jan 15 11:19:00 CST 2019}]
+2019-01-15 18:21:04,676 - 正在启动tcp服务器……
+2019-01-15 18:21:04,773 - Using Log4J as the default logging framework
+2019-01-15 18:21:04,822 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 18:21:04,856 - java.nio.Buffer.address: available
+2019-01-15 18:21:04,857 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 18:21:04,857 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 18:21:04,858 - direct buffer constructor: available
+2019-01-15 18:21:04,858 - java.nio.Bits.unaligned: available, true
+2019-01-15 18:21:04,858 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 18:21:04,860 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 18:21:04,860 - Platform: Windows
+2019-01-15 18:21:04,860 - Java version: 8
+2019-01-15 18:21:04,860 - -Dio.netty.noUnsafe: false
+2019-01-15 18:21:04,861 - sun.misc.Unsafe: available
+2019-01-15 18:21:04,861 - -Dio.netty.noJavassist: false
+2019-01-15 18:21:04,861 - Javassist: unavailable
+2019-01-15 18:21:04,862 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 18:21:04,862 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 18:21:04,862 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 18:21:04,862 - -Dio.netty.noPreferDirect: false
+2019-01-15 18:21:04,862 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 18:21:04,877 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 18:21:04,877 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 18:21:04,879 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 18:21:05,294 - -Dio.netty.processId: 13372 (auto-detected)
+2019-01-15 18:21:05,296 - -Djava.net.preferIPv4Stack: false
+2019-01-15 18:21:05,296 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 18:21:05,445 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 18:21:05,445 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 18:21:05,634 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 18:21:05,667 - -Dio.netty.initialSeedUniquifier: 0x125d4b3840768fdd
+2019-01-15 18:21:05,677 - -Dio.netty.leakDetection.level: simple
+2019-01-15 18:21:05,677 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 18:21:05,700 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 18:21:05,707 - -Dio.netty.allocator.type: pooled
+2019-01-15 18:21:05,707 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 18:21:05,707 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 18:21:05,719 - 启动tcp服务器启动成功，正在监听端口:8777
+2019-01-15 18:21:08,863 - Using Log4J as the default logging framework
+2019-01-15 18:21:08,870 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 18:21:08,901 - java.nio.Buffer.address: available
+2019-01-15 18:21:08,901 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 18:21:08,902 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 18:21:08,903 - direct buffer constructor: available
+2019-01-15 18:21:08,903 - java.nio.Bits.unaligned: available, true
+2019-01-15 18:21:08,903 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 18:21:08,904 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 18:21:08,904 - Platform: Windows
+2019-01-15 18:21:08,904 - Java version: 8
+2019-01-15 18:21:08,905 - -Dio.netty.noUnsafe: false
+2019-01-15 18:21:08,905 - sun.misc.Unsafe: available
+2019-01-15 18:21:08,905 - -Dio.netty.noJavassist: false
+2019-01-15 18:21:08,905 - Javassist: unavailable
+2019-01-15 18:21:08,906 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 18:21:08,906 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 18:21:08,906 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 18:21:08,907 - -Dio.netty.noPreferDirect: false
+2019-01-15 18:21:08,907 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 18:21:08,922 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 18:21:08,922 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 18:21:08,924 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 18:21:09,344 - -Dio.netty.processId: 24000 (auto-detected)
+2019-01-15 18:21:09,346 - -Djava.net.preferIPv4Stack: false
+2019-01-15 18:21:09,346 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 18:21:09,507 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 18:21:09,507 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 18:21:09,758 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 18:21:09,762 - -Dio.netty.initialSeedUniquifier: 0x44917496c50b32c8
+2019-01-15 18:21:09,782 - -Dio.netty.leakDetection.level: simple
+2019-01-15 18:21:09,782 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 18:21:09,804 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 18:21:09,805 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 18:21:09,821 - -Dio.netty.allocator.type: pooled
+2019-01-15 18:21:09,822 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 18:21:09,822 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 18:21:09,993 - [id: 0xcea71f84] REGISTERED
+2019-01-15 18:21:09,993 - [id: 0xcea71f84] CONNECT: /127.0.0.1:8777
+2019-01-15 18:21:09,996 - [id: 0xcea71f84, L:/127.0.0.1:58933 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 18:21:10,292 - [id: 0x4db7585f, L:/127.0.0.1:8777 - R:/127.0.0.1:58933] REGISTERED
+2019-01-15 18:21:10,293 - [id: 0x4db7585f, L:/127.0.0.1:8777 - R:/127.0.0.1:58933] ACTIVE
+2019-01-15 18:21:10,329 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 18:21:10,329 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 18:21:10,329 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 18:21:10,329 - -Dio.netty.recycler.ratio: 8
+2019-01-15 18:21:10,335 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 18:21:10,336 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2ce7701
+2019-01-15 18:21:10,339 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 624, cap: 1024)
+2019-01-15 18:21:10,340 - [id: 0xcea71f84, L:/127.0.0.1:58933 - R:/127.0.0.1:8777] WRITE: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000090| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|000000a0| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|000000b0| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000120| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|00000130| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|00000140| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|000001b0| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|000001c0| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|000001d0| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000240| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|00000250| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|00000260| 34 4d 6d 49 33 4e 69 4a 39 58 51 3d 3d 22 7d 63 |4MmI3NiJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 18:21:10,340 - [id: 0xcea71f84, L:/127.0.0.1:58933 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 18:21:10,343 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 18:21:10,343 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 18:21:10,343 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 18:21:10,343 - -Dio.netty.recycler.ratio: 8
+2019-01-15 18:21:10,349 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 18:21:10,350 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6c272762
+2019-01-15 18:21:10,353 - [id: 0x4db7585f, L:/127.0.0.1:8777 - R:/127.0.0.1:58933] RECEIVED: 624B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 52 00 00 02 69 7b 22 63 6c 61 73 73 4e 61 6d |XR...i{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 57 33 73 69 62 6d 46 |object":"W3sibmF|
+|00000030| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000040| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000050| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000060| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000070| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000080| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000090| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|000000a0| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|000000b0| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|000000c0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000000d0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|000000e0| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|000000f0| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000100| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000110| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000120| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|00000130| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|00000140| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|00000150| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000160| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000170| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000180| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000190| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|000001a0| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|000001b0| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|000001c0| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|000001d0| 34 4d 6d 49 33 4e 69 4a 39 4c 48 73 69 62 6d 46 |4MmI3NiJ9LHsibmF|
+|000001e0| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|000001f0| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000200| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000210| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000220| 77 4e 6a 6f 79 4d 54 6f 78 4e 53 49 73 49 6e 56 |wNjoyMToxNSIsInV|
+|00000230| 70 5a 43 49 36 49 6a 4a 6d 4e 7a 59 77 4d 47 55 |pZCI6IjJmNzYwMGU|
+|00000240| 79 4c 54 51 33 4d 54 51 74 4e 44 59 79 4e 53 31 |yLTQ3MTQtNDYyNS1|
+|00000250| 68 5a 44 49 30 4c 54 6b 35 4f 54 51 33 5a 6a 45 |hZDI0LTk5OTQ3ZjE|
+|00000260| 34 4d 6d 49 33 4e 69 4a 39 58 51 3d 3d 22 7d 63 |4MmI3NiJ9XQ=="}c|
++--------+-------------------------------------------------+----------------+
+2019-01-15 18:21:10,354 - 开始解码数据……
+2019-01-15 18:21:10,354 - 数据开头格式正确
+2019-01-15 18:21:10,389 - 数据解码成功
+2019-01-15 18:21:10,389 - 开始封装数据……
+2019-01-15 18:21:10,406 - 这是一个List:[User{name='冉鹏峰', age=24, UID='2f7600e2-4714-4625-ad24-99947f182b76', birthday=Tue Jan 15 06:21:00 CST 2019}, User{name='冉鹏峰', age=24, UID='2f7600e2-4714-4625-ad24-99947f182b76', birthday=Tue Jan 15 06:21:00 CST 2019}, User{name='冉鹏峰', age=24, UID='2f7600e2-4714-4625-ad24-99947f182b76', birthday=Tue Jan 15 06:21:00 CST 2019}, User{name='冉鹏峰', age=24, UID='2f7600e2-4714-4625-ad24-99947f182b76', birthday=Tue Jan 15 06:21:00 CST 2019}]
+2019-01-15 18:22:48,947 - Using Log4J as the default logging framework
+2019-01-15 18:22:48,951 - -Dio.netty.eventLoopThreads: 24
+2019-01-15 18:22:48,980 - java.nio.Buffer.address: available
+2019-01-15 18:22:48,981 - sun.misc.Unsafe.theUnsafe: available
+2019-01-15 18:22:48,981 - sun.misc.Unsafe.copyMemory: available
+2019-01-15 18:22:48,981 - direct buffer constructor: available
+2019-01-15 18:22:48,982 - java.nio.Bits.unaligned: available, true
+2019-01-15 18:22:48,982 - java.nio.DirectByteBuffer.<init>(long, int): available
+2019-01-15 18:22:48,983 - java.nio.ByteBuffer.cleaner(): available
+2019-01-15 18:22:48,983 - Platform: Windows
+2019-01-15 18:22:48,983 - Java version: 8
+2019-01-15 18:22:48,983 - -Dio.netty.noUnsafe: false
+2019-01-15 18:22:48,984 - sun.misc.Unsafe: available
+2019-01-15 18:22:48,984 - -Dio.netty.noJavassist: false
+2019-01-15 18:22:48,984 - Javassist: unavailable
+2019-01-15 18:22:48,984 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2019-01-15 18:22:48,985 - -Dio.netty.tmpdir: C:\Users\siwash\AppData\Local\Temp (java.io.tmpdir)
+2019-01-15 18:22:48,985 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2019-01-15 18:22:48,985 - -Dio.netty.noPreferDirect: false
+2019-01-15 18:22:48,985 - io.netty.maxDirectMemory: 1881145344 bytes
+2019-01-15 18:22:48,998 - -Dio.netty.noKeySetOptimization: false
+2019-01-15 18:22:48,998 - -Dio.netty.selectorAutoRebuildThreshold: 512
+2019-01-15 18:22:49,000 - org.jctools-core.MpscChunkedArrayQueue: available
+2019-01-15 18:22:49,295 - -Dio.netty.processId: 17940 (auto-detected)
+2019-01-15 18:22:49,296 - -Djava.net.preferIPv4Stack: false
+2019-01-15 18:22:49,296 - -Djava.net.preferIPv6Addresses: false
+2019-01-15 18:22:49,449 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2019-01-15 18:22:49,450 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+2019-01-15 18:22:49,633 - -Dio.netty.machineId: 00:50:56:ff:fe:c0:00:08 (auto-detected)
+2019-01-15 18:22:49,634 - -Dio.netty.initialSeedUniquifier: 0xc64db3ff293dbec2
+2019-01-15 18:22:49,643 - -Dio.netty.leakDetection.level: simple
+2019-01-15 18:22:49,644 - -Dio.netty.leakDetection.maxRecords: 4
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.numHeapArenas: 18
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.numDirectArenas: 18
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.pageSize: 8192
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.maxOrder: 11
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.chunkSize: 16777216
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.tinyCacheSize: 512
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.smallCacheSize: 256
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.normalCacheSize: 64
+2019-01-15 18:22:49,661 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2019-01-15 18:22:49,662 - -Dio.netty.allocator.cacheTrimInterval: 8192
+2019-01-15 18:22:49,669 - -Dio.netty.allocator.type: pooled
+2019-01-15 18:22:49,669 - -Dio.netty.threadLocalDirectBufferSize: 65536
+2019-01-15 18:22:49,669 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2019-01-15 18:22:49,704 - [id: 0x31468a28] REGISTERED
+2019-01-15 18:22:49,704 - [id: 0x31468a28] CONNECT: /127.0.0.1:8777
+2019-01-15 18:22:49,706 - [id: 0x97183a5b, L:/127.0.0.1:8777 - R:/127.0.0.1:59161] REGISTERED
+2019-01-15 18:22:49,706 - [id: 0x97183a5b, L:/127.0.0.1:8777 - R:/127.0.0.1:59161] ACTIVE
+2019-01-15 18:22:49,707 - [id: 0x31468a28, L:/127.0.0.1:59161 - R:/127.0.0.1:8777] ACTIVE
+2019-01-15 18:22:49,859 - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2019-01-15 18:22:49,859 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2019-01-15 18:22:49,859 - -Dio.netty.recycler.linkCapacity: 16
+2019-01-15 18:22:49,859 - -Dio.netty.recycler.ratio: 8
+2019-01-15 18:22:49,866 - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2019-01-15 18:22:49,867 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3d7785fe
+2019-01-15 18:22:49,870 - 数据编码成功：PooledUnsafeDirectByteBuf(ridx: 0, widx: 520, cap: 1024)
+2019-01-15 18:22:49,871 - [id: 0x31468a28, L:/127.0.0.1:59161 - R:/127.0.0.1:8777] WRITE: 520B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 00 00 02 01 7b 22 63 6c 61 73 73 4e 61 6d |XS....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4c 6d 6c 62 44 |object":"eyLmlbD|
+|00000030| 6d 6a 61 37 6b 75 49 41 69 4f 6e 73 69 62 6d 46 |mja7kuIAiOnsibmF|
+|00000040| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000050| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000060| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000070| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000080| 77 4e 6a 6f 79 4d 6a 6f 78 4e 53 49 73 49 6e 56 |wNjoyMjoxNSIsInV|
+|00000090| 70 5a 43 49 36 49 6d 49 35 4e 7a 56 68 59 7a 41 |pZCI6ImI5NzVhYzA|
+|000000a0| 79 4c 57 46 6c 4d 6a 6b 74 4e 44 45 35 4d 43 30 |yLWFlMjktNDE5MC0|
+|000000b0| 34 4e 6a 5a 68 4c 57 4a 6b 5a 6a 45 35 5a 44 4d |4NjZhLWJkZjE5ZDM|
+|000000c0| 33 4d 7a 6b 79 4e 43 4a 39 4c 43 4c 6d 6c 62 44 |3MzkyNCJ9LCLmlbD|
+|000000d0| 6d 6a 61 34 79 49 6a 70 37 49 6d 35 68 62 57 55 |mja4yIjp7Im5hbWU|
+|000000e0| 69 4f 69 4c 6c 68 6f 6e 70 75 59 2f 6c 73 37 41 |iOiLlhonpuY/ls7A|
+|000000f0| 69 4c 43 4a 68 5a 32 55 69 4f 6a 49 30 4c 43 4a |iLCJhZ2UiOjI0LCJ|
+|00000100| 69 61 58 4a 30 61 47 52 68 65 53 49 36 49 6a 49 |iaXJ0aGRheSI6IjI|
+|00000110| 77 4d 54 6b 76 4d 44 45 76 4d 54 55 67 4d 44 59 |wMTkvMDEvMTUgMDY|
+|00000120| 36 4d 6a 49 36 4d 54 55 69 4c 43 4a 31 61 57 51 |6MjI6MTUiLCJ1aWQ|
+|00000130| 69 4f 69 4a 69 4f 54 63 31 59 57 4d 77 4d 69 31 |iOiJiOTc1YWMwMi1|
+|00000140| 68 5a 54 49 35 4c 54 51 78 4f 54 41 74 4f 44 59 |hZTI5LTQxOTAtODY|
+|00000150| 32 59 53 31 69 5a 47 59 78 4f 57 51 7a 4e 7a 4d |2YS1iZGYxOWQzNzM|
+|00000160| 35 4d 6a 51 69 66 53 77 69 35 70 57 77 35 6f 32 |5MjQifSwi5pWw5o2|
+|00000170| 75 4d 79 49 36 65 79 4a 75 59 57 31 6c 49 6a 6f |uMyI6eyJuYW1lIjo|
+|00000180| 69 35 59 61 4a 36 62 6d 50 35 62 4f 77 49 69 77 |i5YaJ6bmP5bOwIiw|
+|00000190| 69 59 57 64 6c 49 6a 6f 79 4e 43 77 69 59 6d 6c |iYWdlIjoyNCwiYml|
+|000001a0| 79 64 47 68 6b 59 58 6b 69 4f 69 49 79 4d 44 45 |ydGhkYXkiOiIyMDE|
+|000001b0| 35 4c 7a 41 78 4c 7a 45 31 49 44 41 32 4f 6a 49 |5LzAxLzE1IDA2OjI|
+|000001c0| 79 4f 6a 45 31 49 69 77 69 64 57 6c 6b 49 6a 6f |yOjE1IiwidWlkIjo|
+|000001d0| 69 59 6a 6b 33 4e 57 46 6a 4d 44 49 74 59 57 55 |iYjk3NWFjMDItYWU|
+|000001e0| 79 4f 53 30 30 4d 54 6b 77 4c 54 67 32 4e 6d 45 |yOS00MTkwLTg2NmE|
+|000001f0| 74 59 6d 52 6d 4d 54 6c 6b 4d 7a 63 7a 4f 54 49 |tYmRmMTlkMzczOTI|
+|00000200| 30 49 6e 31 39 22 7d 63                         |0In19"}c        |
++--------+-------------------------------------------------+----------------+
+2019-01-15 18:22:49,871 - [id: 0x31468a28, L:/127.0.0.1:59161 - R:/127.0.0.1:8777] FLUSH
+2019-01-15 18:22:49,872 - [id: 0x97183a5b, L:/127.0.0.1:8777 - R:/127.0.0.1:59161] RECEIVED: 520B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 58 53 00 00 02 01 7b 22 63 6c 61 73 73 4e 61 6d |XS....{"classNam|
+|00000010| 65 22 3a 22 70 6f 6a 6f 2e 55 73 65 72 22 2c 22 |e":"pojo.User","|
+|00000020| 6f 62 6a 65 63 74 22 3a 22 65 79 4c 6d 6c 62 44 |object":"eyLmlbD|
+|00000030| 6d 6a 61 37 6b 75 49 41 69 4f 6e 73 69 62 6d 46 |mja7kuIAiOnsibmF|
+|00000040| 74 5a 53 49 36 49 75 57 47 69 65 6d 35 6a 2b 57 |tZSI6IuWGiem5j+W|
+|00000050| 7a 73 43 49 73 49 6d 46 6e 5a 53 49 36 4d 6a 51 |zsCIsImFnZSI6MjQ|
+|00000060| 73 49 6d 4a 70 63 6e 52 6f 5a 47 46 35 49 6a 6f |sImJpcnRoZGF5Ijo|
+|00000070| 69 4d 6a 41 78 4f 53 38 77 4d 53 38 78 4e 53 41 |iMjAxOS8wMS8xNSA|
+|00000080| 77 4e 6a 6f 79 4d 6a 6f 78 4e 53 49 73 49 6e 56 |wNjoyMjoxNSIsInV|
+|00000090| 70 5a 43 49 36 49 6d 49 35 4e 7a 56 68 59 7a 41 |pZCI6ImI5NzVhYzA|
+|000000a0| 79 4c 57 46 6c 4d 6a 6b 74 4e 44 45 35 4d 43 30 |yLWFlMjktNDE5MC0|
+|000000b0| 34 4e 6a 5a 68 4c 57 4a 6b 5a 6a 45 35 5a 44 4d |4NjZhLWJkZjE5ZDM|
+|000000c0| 33 4d 7a 6b 79 4e 43 4a 39 4c 43 4c 6d 6c 62 44 |3MzkyNCJ9LCLmlbD|
+|000000d0| 6d 6a 61 34 79 49 6a 70 37 49 6d 35 68 62 57 55 |mja4yIjp7Im5hbWU|
+|000000e0| 69 4f 69 4c 6c 68 6f 6e 70 75 59 2f 6c 73 37 41 |iOiLlhonpuY/ls7A|
+|000000f0| 69 4c 43 4a 68 5a 32 55 69 4f 6a 49 30 4c 43 4a |iLCJhZ2UiOjI0LCJ|
+|00000100| 69 61 58 4a 30 61 47 52 68 65 53 49 36 49 6a 49 |iaXJ0aGRheSI6IjI|
+|00000110| 77 4d 54 6b 76 4d 44 45 76 4d 54 55 67 4d 44 59 |wMTkvMDEvMTUgMDY|
+|00000120| 36 4d 6a 49 36 4d 54 55 69 4c 43 4a 31 61 57 51 |6MjI6MTUiLCJ1aWQ|
+|00000130| 69 4f 69 4a 69 4f 54 63 31 59 57 4d 77 4d 69 31 |iOiJiOTc1YWMwMi1|
+|00000140| 68 5a 54 49 35 4c 54 51 78 4f 54 41 74 4f 44 59 |hZTI5LTQxOTAtODY|
+|00000150| 32 59 53 31 69 5a 47 59 78 4f 57 51 7a 4e 7a 4d |2YS1iZGYxOWQzNzM|
+|00000160| 35 4d 6a 51 69 66 53 77 69 35 70 57 77 35 6f 32 |5MjQifSwi5pWw5o2|
+|00000170| 75 4d 79 49 36 65 79 4a 75 59 57 31 6c 49 6a 6f |uMyI6eyJuYW1lIjo|
+|00000180| 69 35 59 61 4a 36 62 6d 50 35 62 4f 77 49 69 77 |i5YaJ6bmP5bOwIiw|
+|00000190| 69 59 57 64 6c 49 6a 6f 79 4e 43 77 69 59 6d 6c |iYWdlIjoyNCwiYml|
+|000001a0| 79 64 47 68 6b 59 58 6b 69 4f 69 49 79 4d 44 45 |ydGhkYXkiOiIyMDE|
+|000001b0| 35 4c 7a 41 78 4c 7a 45 31 49 44 41 32 4f 6a 49 |5LzAxLzE1IDA2OjI|
+|000001c0| 79 4f 6a 45 31 49 69 77 69 64 57 6c 6b 49 6a 6f |yOjE1IiwidWlkIjo|
+|000001d0| 69 59 6a 6b 33 4e 57 46 6a 4d 44 49 74 59 57 55 |iYjk3NWFjMDItYWU|
+|000001e0| 79 4f 53 30 30 4d 54 6b 77 4c 54 67 32 4e 6d 45 |yOS00MTkwLTg2NmE|
+|000001f0| 74 59 6d 52 6d 4d 54 6c 6b 4d 7a 63 7a 4f 54 49 |tYmRmMTlkMzczOTI|
+|00000200| 30 49 6e 31 39 22 7d 63                         |0In19"}c        |
++--------+-------------------------------------------------+----------------+
+2019-01-15 18:22:49,872 - 开始解码数据……
+2019-01-15 18:22:49,873 - 数据开头格式正确
+2019-01-15 18:22:49,873 - 数据解码成功
+2019-01-15 18:22:49,873 - 开始封装数据……
+2019-01-15 18:22:49,879 - 这是一个Map:{数据一=User{name='冉鹏峰', age=24, UID='b975ac02-ae29-4190-866a-bdf19d373924', birthday=Tue Jan 15 06:22:00 CST 2019}, 数据2=User{name='冉鹏峰', age=24, UID='b975ac02-ae29-4190-866a-bdf19d373924', birthday=Tue Jan 15 06:22:00 CST 2019}, 数据3=User{name='冉鹏峰', age=24, UID='b975ac02-ae29-4190-866a-bdf19d373924', birthday=Tue Jan 15 06:22:00 CST 2019}}
